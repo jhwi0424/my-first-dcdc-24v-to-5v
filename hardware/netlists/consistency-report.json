@@ -1,0 +1,17 @@
+{
+  "source": "hardware/latest/TPS54202_24V_5V_396VH_real.epro2",
+  "source_sha256": "b60c71091e60e01400c3a5dffced03ddfa7a9d58f7759fd08d1822ab4a0ee618",
+  "schematic_netlist_sha256": "c5bc8d559083771482f50baaa5fbfa798c700a40269df63f1c9ac03cf5499bb8",
+  "schematic_component_count": 16,
+  "pcb_component_count": 12,
+  "common_pins_checked": 28,
+  "common_pin_mismatches": [],
+  "schematic_only_components": [
+    "H1",
+    "H2",
+    "H3",
+    "H4"
+  ],
+  "pcb_only_components": [],
+  "scope": "Logical pad assignments only; does not check copper connectivity, DRC, ERC, thermal or electrical performance."
+}

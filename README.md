@@ -61,6 +61,10 @@ python tools/export_project.py
 
 仓库还保留 [PDF 排版脚本](tools/build_reading_pdf.py)，需要重新在嘉立创导出原生 PCB PDF 至 `tmp/pcb-native.pdf`，并安装 `reportlab`、`PyMuPDF`；脚本默认使用 Windows 黑体。
 
+## 特别感谢
+
+特别感谢 **RM Helios 战队的两位硬件友友**，以及**东区 K8-305 两位嵌赛电源国二的友友**，感谢你们在这块 DCDC 的设计过程中给予的指导与帮助！
+
 ## 参考资料与许可
 
 资料目录参考了[嘉立创开源的 DCDC 模块](https://oshwhub.com/luchichick/MP1584EN_24v-5v_DCDC)和[电源模块项目](https://oshwhub.com/wuguohao/power-supply-module)对工程、参数、说明和测试状态的组织方式；未复制这些项目的设计文件，也不将其视作本电路的已确认设计来源。

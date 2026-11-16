@@ -1,0 +1,209 @@
+{
+  "source": "hardware/latest/TPS54202_24V_5V_396VH_real.epro2",
+  "components": {
+    "C1": {
+      "attributes": {
+        "Value": "10uF",
+        "Reuse Block": "",
+        "Group ID": "",
+        "Channel ID": "$1I5",
+        "Unique ID": "gge3",
+        "DeviceName": "{\"name\":\"CAP_1206\",\"source\":\"\",\"uuid\":\"34dd51a06c63b8e1\"}",
+        "Footprint": "799bf3d2ac7c0e8e",
+        "Designator": "C1",
+        "Device": "34dd51a06c63b8e1"
+      },
+      "pins": {
+        "2": "$1N2",
+        "1": "GND"
+      }
+    },
+    "C2": {
+      "attributes": {
+        "Reuse Block": "",
+        "Group ID": "",
+        "Channel ID": "$1I6",
+        "Unique ID": "gge4",
+        "DeviceName": "{\"name\":\"CAP_0603\",\"source\":\"\",\"uuid\":\"2b81427a79c659bc\"}",
+        "Footprint": "8c362792370999a1",
+        "Designator": "C2",
+        "Device": "2b81427a79c659bc"
+      },
+      "pins": {
+        "2": "$1N2",
+        "1": "GND"
+      }
+    },
+    "C3": {
+      "attributes": {
+        "Value": "22uF",
+        "Reuse Block": "",
+        "Group ID": "",
+        "Channel ID": "$1I14",
+        "Unique ID": "gge7",
+        "DeviceName": "{\"name\":\"CAP_0805\",\"source\":\"\",\"uuid\":\"48cdc0c3298b4733\"}",
+        "Footprint": "abd3800bc7ef978b",
+        "Designator": "C3",
+        "Device": "48cdc0c3298b4733"
+      },
+      "pins": {
+        "2": "VOUT",
+        "1": "GND"
+      }
+    },
+    "C4": {
+      "attributes": {
+        "Value": "22uF",
+        "Reuse Block": "",
+        "Group ID": "",
+        "Channel ID": "$1I15",
+        "Unique ID": "gge8",
+        "DeviceName": "{\"name\":\"CAP_0805\",\"source\":\"\",\"uuid\":\"48cdc0c3298b4733\"}",
+        "Footprint": "abd3800bc7ef978b",
+        "Designator": "C4",
+        "Device": "48cdc0c3298b4733"
+      },
+      "pins": {
+        "2": "VOUT",
+        "1": "GND"
+      }
+    },
+    "C5": {
+      "attributes": {
+        "Reuse Block": "",
+        "Group ID": "",
+        "Channel ID": "$1I17",
+        "Unique ID": "gge9",
+        "DeviceName": "{\"name\":\"CAP_0603\",\"source\":\"\",\"uuid\":\"2b81427a79c659bc\"}",
+        "Footprint": "8c362792370999a1",
+        "Designator": "C5",
+        "Device": "2b81427a79c659bc"
+      },
+      "pins": {
+        "2": "$1N13",
+        "1": "$1N10"
+      }
+    },
+    "D1": {
+      "attributes": {
+        "Reuse Block": "",
+        "Group ID": "",
+        "Channel ID": "$1I4",
+        "Unique ID": "gge2",
+        "DeviceName": "{\"name\":\"SS34_C7420365\",\"source\":\"\",\"uuid\":\"658b99667584d5d5\"}",
+        "Footprint": "d5b8f797a66f51c1",
+        "Designator": "D1",
+        "Device": "658b99667584d5d5"
+      },
+      "pins": {
+        "1": "VIN",
+        "2": "$1N2"
+      }
+    },
+    "D2": {
+      "attributes": {
+        "Reuse Block": "",
+        "Group ID": "",
+        "Channel ID": "$1I9",
+        "Unique ID": "gge5",
+        "DeviceName": "{\"name\":\"SMF28CA_C19077517\",\"source\":\"\",\"uuid\":\"a72ade1f05aecdfa\"}",
+        "Name": "={Manufacturer Part}",
+        "Designator": "D2",
+        "Footprint": "b9718bc100c12d5a",
+        "Device": "a72ade1f05aecdfa"
+      },
+      "pins": {
+        "1": "GND",
+        "2": "VIN"
+      }
+    },
+    "L1": {
+      "attributes": {
+        "Reuse Block": "",
+        "Group ID": "",
+        "Channel ID": "$1I13",
+        "Unique ID": "gge6",
+        "DeviceName": "{\"name\":\"FXL0630-150-M\",\"source\":\"\",\"uuid\":\"a37d9e1f77e7798e\"}",
+        "Footprint": "ce9123d247291633",
+        "Designator": "L1",
+        "Device": "a37d9e1f77e7798e"
+      },
+      "pins": {
+        "1": "$1N10",
+        "2": "VOUT"
+      }
+    },
+    "R3": {
+      "attributes": {
+        "Value": "100K",
+        "Unique ID": "gge12",
+        "Reuse Block": "",
+        "Group ID": "",
+        "Channel ID": "$1I23",
+        "DeviceName": "{\"name\":\"Res_0603\",\"source\":\"\",\"uuid\":\"640dd6ace895f1d0\"}",
+        "Footprint": "f48c4817fc2523cc",
+        "Designator": "R3",
+        "Device": "640dd6ace895f1d0"
+      },
+      "pins": {
+        "2": "VOUT",
+        "1": "$1N17"
+      }
+    },
+    "R4": {
+      "attributes": {
+        "Value": "13.3K",
+        "Unique ID": "gge13",
+        "Reuse Block": "",
+        "Group ID": "",
+        "Channel ID": "$1I24",
+        "DeviceName": "{\"name\":\"Res_0603\",\"source\":\"\",\"uuid\":\"640dd6ace895f1d0\"}",
+        "Footprint": "f48c4817fc2523cc",
+        "Designator": "R4",
+        "Device": "640dd6ace895f1d0"
+      },
+      "pins": {
+        "2": "$1N17",
+        "1": "GND"
+      }
+    },
+    "U1": {
+      "attributes": {
+        "Unique ID": "gge1",
+        "Reuse Block": "",
+        "Group ID": "",
+        "Channel ID": "$1I2",
+        "DeviceName": "{\"name\":\"TPS54202DDCR\",\"source\":\"\",\"uuid\":\"52681a73aad22e2a\"}",
+        "Footprint": "49f9ecc7cee13d1b",
+        "Designator": "U1",
+        "Device": "52681a73aad22e2a"
+      },
+      "pins": {
+        "1": "GND",
+        "2": "$1N10",
+        "3": "$1N2",
+        "4": "$1N17",
+        "5": "",
+        "6": "$1N13"
+      }
+    },
+    "C6": {
+      "attributes": {
+        "Value": "N/C",
+        "Unique ID": "gge19",
+        "Reuse Block": "",
+        "Group ID": "",
+        "Channel ID": "$1I35",
+        "DeviceName": "{\"name\":\"CAP_0603\",\"source\":\"\",\"uuid\":\"2b81427a79c659bc\"}",
+        "Footprint": "8c362792370999a1",
+        "Designator": "C6",
+        "Device": "2b81427a79c659bc",
+        "3D Model Title": "C0603_L1.6-W0.8-H0.8"
+      },
+      "pins": {
+        "2": "VOUT",
+        "1": "$1N17"
+      }
+    }
+  }
+}

@@ -1,0 +1,98 @@
+[
+  {
+    "ref": "C1",
+    "value": "10uF",
+    "footprint": "C1206",
+    "mpn": "",
+    "lcsc": "",
+    "populate": true
+  },
+  {
+    "ref": "C2",
+    "value": "100nF",
+    "footprint": "C0603",
+    "mpn": "",
+    "lcsc": "",
+    "populate": true
+  },
+  {
+    "ref": "C3",
+    "value": "22uF",
+    "footprint": "C0805",
+    "mpn": "",
+    "lcsc": "",
+    "populate": true
+  },
+  {
+    "ref": "C4",
+    "value": "22uF",
+    "footprint": "C0805",
+    "mpn": "",
+    "lcsc": "",
+    "populate": true
+  },
+  {
+    "ref": "C5",
+    "value": "100nF",
+    "footprint": "C0603",
+    "mpn": "",
+    "lcsc": "",
+    "populate": true
+  },
+  {
+    "ref": "C6",
+    "value": "N/C",
+    "footprint": "C0603",
+    "mpn": "",
+    "lcsc": "",
+    "populate": false
+  },
+  {
+    "ref": "D1",
+    "value": "SS34",
+    "footprint": "SMA_L4.3-W2.6-LS5.0-FD",
+    "mpn": "SS34",
+    "lcsc": "C7420365",
+    "populate": true
+  },
+  {
+    "ref": "D2",
+    "value": "SMF28CA",
+    "footprint": "SOD-123FL_L2.7-W1.8-LS3.8-BI",
+    "mpn": "SMF28CA",
+    "lcsc": "C19077517",
+    "populate": true
+  },
+  {
+    "ref": "L1",
+    "value": "15uH",
+    "footprint": "IND-SMD_L7.0-W6.6_FXL0630",
+    "mpn": "FXL0630-150-M",
+    "lcsc": "C177243",
+    "populate": true
+  },
+  {
+    "ref": "R3",
+    "value": "100K",
+    "footprint": "R0603",
+    "mpn": "",
+    "lcsc": "",
+    "populate": true
+  },
+  {
+    "ref": "R4",
+    "value": "13.3K",
+    "footprint": "R0603",
+    "mpn": "",
+    "lcsc": "",
+    "populate": true
+  },
+  {
+    "ref": "U1",
+    "value": "TPS54202DDCR",
+    "footprint": "SOT-23-6_L2.9-W1.6-P0.95-LS2.8-BL",
+    "mpn": "TPS54202DDCR",
+    "lcsc": "C191884",
+    "populate": true
+  }
+]
